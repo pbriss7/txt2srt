@@ -1,0 +1,5 @@
+Griffintown.txt
+*.srt
+*.mp3
+myenv/
+.DS_Store
